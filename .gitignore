@@ -1,0 +1,17 @@
+venv
+.env
+env
+.git
+*.pyc
+.local_settings.py
+local_settings.py
+base_url_address.py
+backend/adviserWeb/local_settings.py
+__pycache__/
+*.py[cod]
+.prod_settings.py
+*.log
+data/
+db.sqlite3*
+.idea
+*.json
